@@ -18,7 +18,7 @@ h2{
 .half-width{
     width: 50%;
     padding: 2%;
-    box-shadow: 10px 10px yellow;
+    
 }
 .half-width img{
     width: 80%;
@@ -53,5 +53,16 @@ h2{
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+    
+}
+#full-stack-developer{
+    border-left: 7px solid tomato;
+}
+
+#baby-web-developer{
     border-left: 7px solid blue;
+}
+
+footer P{
+    text-align: center;
 }
